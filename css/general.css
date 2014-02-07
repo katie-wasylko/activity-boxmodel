@@ -29,8 +29,7 @@ img {
 
 body {
     margin: 0;
-    padding: 0;
-    background-color: #81F7F3;
+    padding: 0;    
 }
 
 .masthead {
@@ -47,7 +46,8 @@ body {
 article {
     margin: 0;
     padding: 0 5%;
-    overflow: hidden; 
+    overflow: hidden;
+    background-color: #81F7F3;
 }
 
 h1 {
